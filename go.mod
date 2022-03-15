@@ -3,7 +3,7 @@ module helm.sh/helm/v3
 go 1.16
 
 require (
-	github.com/BurntSushi/toml v0.4.1
+	github.com/BurntSushi/toml v1.0.0
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
@@ -38,8 +38,8 @@ require (
 	k8s.io/apiextensions-apiserver v0.23.1
 	k8s.io/apimachinery v0.23.4
 	k8s.io/apiserver v0.23.1
-	k8s.io/cli-runtime v0.23.1
-	k8s.io/client-go v0.23.1
+	k8s.io/cli-runtime v0.23.4
+	k8s.io/client-go v0.23.4
 	k8s.io/klog/v2 v2.40.1
 	k8s.io/kubectl v0.23.1
 	oras.land/oras-go v1.1.0
