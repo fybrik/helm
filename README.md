@@ -1,3 +1,5 @@
+# The repository used by Fybrik until release v0.7. It is archived now.
+
 # Helm
 
 [![CircleCI](https://circleci.com/gh/helm/helm.svg?style=shield)](https://circleci.com/gh/helm/helm)
